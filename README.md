@@ -19,7 +19,7 @@ Hey 👋 I'm not just a data enthusiast, I'm also a software engineer who enjoys
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently learning Golang, applied mathematics and statistics;
-- 🚀 I’m currently working on geospatial machine learning projects;
+- 🚀 I’m currently working on geospatial data science projects;
 - 💬 Ask me about modern data lakes and data lakehouses using open source technologies, I am happy to help;
 - 📫 How to reach me: nbaleeta@gmail.com;
 
@@ -36,11 +36,14 @@ Hey 👋 I'm not just a data enthusiast, I'm also a software engineer who enjoys
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
-Here are some ideas to get you started:
 
+📈 **My GitHub Stats:**
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanbaleeta&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnathanbaleeta&exclude_repo=K
+
+</p>
 
 
 - 😄 Pronouns: ...
