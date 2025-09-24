@@ -19,18 +19,30 @@ Hey 👋 I'm not just a data enthusiast, I'm also a software engineer who enjoys
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently learning Golang, applied mathematics and statistics;
-- 🚀 I’m currently building geospatial machine learning projects;
-- 💬 Ask me about anything to do with cloud native data lakes and lakehouses, I am happy to help;
+- 🚀 I’m currently working on geospatial machine learning projects;
+- 💬 Ask me about modern data lakes and data lakehouses using open source technologies, I am happy to help;
 - 📫 How to reach me: nbaleeta@gmail.com;
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ExpreesJs-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
