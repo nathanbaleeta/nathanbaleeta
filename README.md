@@ -16,6 +16,13 @@ Hey 👋 I'm not just a data enthusiast, I'm also a software engineer who enjoys
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently learning Golang, applied mathematics and statistics;
+- 🚀 I’m currently building geospatial machine learning projects;
+- 💬 Ask me about anything to do with cloud native data lakes and lakehouses, I am happy to help;
+- 📫 How to reach me: nbaleeta@gmail.com;
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
