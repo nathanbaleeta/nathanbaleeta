@@ -24,7 +24,7 @@ Hey 👋 I'm not just a data enthusiast, I'm also a software engineer who enjoys
 - 📫 How to reach me: nbaleeta@gmail.com;
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ExpreesJs-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
