@@ -1,5 +1,6 @@
-## Hi there 👋 I'm <a href="#" target="_blank">Nathan Baleeta</a>
+### Hi there 👋 I'm <a href="#" target="_blank">Nathan Baleeta</a>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-baleeta-5b69a2101/)
 
 <!--
 **nathanbaleeta/nathanbaleeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
