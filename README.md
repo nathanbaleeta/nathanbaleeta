@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-baleeta-5b69a2101/)
 
 ### Great to see you here!
-Hey 👋 I'm not just a data enthusiast, I'm also a software engineer who enjoys building data centric cloud native platforms.
+Hey 👋 I'm not just a data enthusiast, I'm also a software engineer who enjoys building cloud native end-to-end data platforms.
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
