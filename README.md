@@ -38,6 +38,7 @@ Hey 👋 I'm not just a data enthusiast, I'm also a software engineer who enjoys
 ![](https://img.shields.io/badge/Tools-Superset-informational?style=flat&logo=superset&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GEE-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
 
 
 
