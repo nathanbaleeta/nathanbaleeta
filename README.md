@@ -20,7 +20,7 @@ Hey 👋 I'm not just a software engineer, I'm also a data enthusiast who enjoys
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently learning Golang, applied mathematics and statistics;
-- 🚀 I’m currently working on geospatial data science projects;
+- 🚀 I’m currently working on geospatial/ remote sensing data science projects;
 - 💬 Ask me about building open data lakehouses leveraging modern data architecture, open source and open standards; I am happy to help
 - 📫 How to reach me: nbaleeta@gmail.com;
 
