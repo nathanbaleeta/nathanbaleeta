@@ -21,7 +21,7 @@ Hey 👋 I'm not just a data enthusiast, I'm also a software engineer who enjoys
 
 - 👨🏻‍💻 I’m currently learning Golang, applied mathematics and statistics;
 - 🚀 I’m currently working on geospatial data science projects;
-- 💬 Ask me about modern data lakes and data lakehouses using open source technologies, I am happy to help;
+- 💬 Ask me about building open data lakehouses leveraging modern data architecture, open source and open standards; I am happy to help
 - 📫 How to reach me: nbaleeta@gmail.com;
 
 ## 🔧 Technologies & Tools
