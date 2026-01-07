@@ -35,6 +35,7 @@ Hey 👋 I'm not just a software engineer, I'm also a data enthusiast who enjoys
 ![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=airflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Trino-informational?style=flat&logo=trino&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Superset-informational?style=flat&logo=superset&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
