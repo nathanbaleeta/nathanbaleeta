@@ -20,7 +20,7 @@ Hey 👋 I'm not just a software engineer, I'm also a data enthusiast who enjoys
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently learning Golang;
-- 🚀 I’m currently working on event driven microservices & architectures;
+- 🚀 I’m currently working on event driven microservices;
 - 💬 Ask me about building open data lakehouses leveraging modern data architecture, open source and open standards; I am happy to help
 - 📫 How to reach me: nbaleeta@gmail.com;
 
